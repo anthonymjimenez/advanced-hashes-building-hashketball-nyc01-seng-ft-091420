@@ -67,7 +67,8 @@ def game_hash
     :team_name => "Charlotte Hornets",
     :colors => ["Turquoise", "Purple"],
     :players => [
-      { player_name: "Jeff Adrien",
+        { 
+        player_name: "Jeff Adrien",
         :number => 4,
         :shoe => 18,
         :points => 10,
@@ -77,7 +78,7 @@ def game_hash
         :blocks => 7,
         :slam_dunks => 2
       },
-       {
+      {
         player_name: "Bismak Biyombo",
         :number => 0,
         :shoe => 16,
