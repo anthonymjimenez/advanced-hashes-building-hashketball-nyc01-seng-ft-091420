@@ -44,7 +44,7 @@ def game_hash
         :number => 1,
         :shoe => 19,
         :points => 26,
-        :rebounds => 12,
+        :rebounds => 11,
         :assists => 6,
         :steals => 3,
         :blocks => 8,
@@ -88,7 +88,7 @@ def game_hash
         :blocks => 15,
         :slam_dunks => 10
       },
-{
+      {
         player_name: "Ben Gordon",
         :number => 8,
         :shoe => 15,
@@ -99,7 +99,7 @@ def game_hash
         :blocks => 1,
         :slam_dunks => 0
       },
-       {
+      {
         player_name: "Kemba Walker",
         :number => 33,
         :shoe => 15,
